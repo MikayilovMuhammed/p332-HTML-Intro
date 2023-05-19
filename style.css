@@ -1,0 +1,56 @@
+/* section {
+        background-color: aqua;
+      }
+
+      h2 {
+        color: red;
+      } */
+
+
+      /* p.h2item {
+        color: blue;
+      } */
+
+      /* #progg .h2item {
+        color: red;
+      } */
+
+      section .h2item {
+        color: rgba(73, 93, 123, 0.677);
+      }
+
+
+
+
+      .h2item, p, ul li {
+       color: gold;
+     }
+      
+
+      p.h2item {
+        color: aqua;
+      }
+
+      
+
+     
+
+      /* #progg {
+        background-color: red;
+      }
+
+      .section-class {
+        background-color: blue;
+      }
+
+      section {
+        background-color: brown !important;
+      } */
+
+/* 
+      * {
+        background-color: blue;
+        color: red;
+      } */
+
+
